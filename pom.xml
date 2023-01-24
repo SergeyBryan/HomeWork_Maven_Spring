@@ -12,7 +12,10 @@
     <artifactId>HomeWork_Maven_Spring</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>HomeWork_Maven_Spring</name>
-    <description>HomeWork_Maven_Spring</description>
+    <description>Название проекта: Spring_HomeWork
+        Функция проекта: подключить Spring boot к проекту и написать первые запросы
+        Проект реализов с помощью: сборщика Maven и Фреймворка Spring boot
+        Проект написан на языке: Java</description>
     <properties>
         <java.version>19</java.version>
     </properties>
